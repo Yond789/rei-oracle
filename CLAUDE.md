@@ -87,7 +87,7 @@ git push
 
 ## Installed Skills
 
-`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/threat-model` `/owasp-check` `/dep-scan` `/security-audit` `/pentest-review`
+`/recap` `/rrr` `/forward` `/standup` `/learn` `/dig` `/trace` `/talk-to` `/xray` `/resonance` `/bud` `/threat-model` `/owasp-check` `/dep-scan` `/security-audit` `/pentest-review`
 
 ## Brain Structure
 
