@@ -40,6 +40,9 @@
 | Oracle | Role | Repo |
 |--------|------|------|
 | `zeta` | Trading & Finance Research Lead | `zeta-oracle` |
+| `alpha` | Quant Strategy | `alpha-oracle` |
+| `omega` | Risk & Compliance | `omega-oracle` |
+| `sigma` | Data Engineering | `sigma-oracle` |
 
 ## GSD-Inspired Security Principles
 
