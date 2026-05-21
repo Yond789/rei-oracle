@@ -27,6 +27,20 @@
 | `echo` | Docs & Context Engineer | `echo-oracle` |
 | `hana` | UX / Design | `hana-oracle` |
 
+**Company B — BI (separate company)**
+
+| Oracle | Role | Repo |
+|--------|------|------|
+| `yoda` | BI Dev & Optimizer (Lead) | `yoda-oracle` |
+| `obiwan` | Docs | `obiwan-oracle` |
+| `luke` | Data Quality | `luke-oracle` |
+
+**Company C — Trading & Finance (separate company)**
+
+| Oracle | Role | Repo |
+|--------|------|------|
+| `zeta` | Trading & Finance Research Lead | `zeta-oracle` |
+
 ## GSD-Inspired Security Principles
 
 Rei follows a **shift-left security** model aligned with GSD quality gates:
