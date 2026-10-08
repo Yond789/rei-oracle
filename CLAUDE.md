@@ -85,6 +85,8 @@ Rei produces:
 /recap → audit/review → /rrr → git add ψ/memory/ → commit → push → done
 ```
 
+Memory index and company principles load automatically at session start (`.claude/hooks/inject-memory.sh`, source: `echo-oracle/company/`). Run `/meditate` monthly.
+
 **DocCon (standing order):**
 ```bash
 git add ψ/memory/
@@ -104,12 +106,13 @@ git push
 
 ## Installed Skills
 
-**Core**: `/recap` `/rrr` `/forward` `/standup` `/dig` `/trace` `/learn` `/talk-to` `/bud`
-**Analysis**: `/resonance` `/dream` `/feel` `/xray` `/where-we-are`
-**Memory**: `/fyi` `/inbox` `/mailbox` `/schedule`
+**Core**: `/recap` `/rrr` `/forward` `/dig` `/trace` `/learn` `/talk-to` `/bud`
+**Analysis**: `/resonance` `/dream` `/feel` `/where-we-are`
+**Memory**: `/fyi`
 **Dev**: `/incubate` `/psi` `/project` `/watch`
-**Lifecycle**: `/awaken` `/go` `/hey` `/calver`
+**Lifecycle**: `/awaken` `/go` `/calver`
 **Role**: `/threat-model` `/owasp-check` `/dep-scan` `/security-audit` `/pentest-review`
+**Company**: `/meditate` `/how` `/adversarial-review`
 
 **Short codes**: `ccc` (capture context) · `nnn` (plan, no code) · `gogogo` (execute plan) · `rrr` (retrospective)
 
